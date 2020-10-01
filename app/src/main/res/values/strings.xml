@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Anjay Intent</string>
+    <string name="move_activity">Ini buat pindah Activity</string>
+    <string name="move_with_data">Ini Buat Pindah Activity dengan Data</string>
+    <string name="move_with_object">Ini Buat Pindah Activity dengan Object</string>
+    <string name="dial_number">Ini Kalo Mau Buka Dial</string>
+    <string name="move_with_result">Ini Buat Pindah Activity Result</string>
+    <string name="result_from_activity">ini Buat Liat Hasil</string>
+    <string name="choose_number">Chooose Your Character</string>
+    <string name="_50">Ghost</string>
+    <string name="_100">Price</string>
+    <string name="_150">Yuri</string>
+    <string name="_200">Soap</string>
+    <string name="choose">Choose</string>
+    <string name="data_received">Data Received</string>
+    <string name="object_received">Object Received</string>
+    <string name="this_is_moveactivity">Siapa Juga Yang Baca Text Ini?</string>
+</resources>
